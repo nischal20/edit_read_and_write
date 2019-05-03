@@ -45,11 +45,6 @@ int main () {
                 st[i+6]=='u' && st[i+7]=='d' && st[i+8]=='e' && st[i+9]=='='&& st[i+10]=='"'    )
 
             {
-//                int a=st[i+10]-'0';int a1=st[i+11]-'0';int a3=st[i+13]-'0';
-//            float b3=(float)a3;int a4=st[i+14]-'0';float b4=(float)a4;
-//            float val=a*10+a1+b3/10+b4/100+.04;
-//
-//            cout<<val<<"      ";
             int a4=st[i+16]-'0';
             a4=a4+longInc;
             st[i+16]=(char)(a4+'0');
