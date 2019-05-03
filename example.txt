@@ -1,0 +1,30 @@
+
+
+<Address Zip="27609" Latitude="35.87021" Longitude="-78.64591"/>
+<Set DeviceType="105">
+<DeviceLinkRange End="EOT" Start="2018-12-10"/>
+
+
+
+<Address Zip="27609" Latitude="35.8:021" Longitude="-78.64591"/>
+<Set DeviceType="105">
+<DeviceLinkRange End="EOT" Start="2018-12-10"/>
+
+
+
+<Address Zip="27609" Latitude="35.8=021" Longitude="-78.64591"/>
+<Set DeviceType="105">
+<DeviceLinkRange End="EOT" Start="2018-12-10"/>
+
+
+
+<Address Zip="27609" Latitude="35.8@021" Longitude="-78.64591"/>
+<Set DeviceType="105">
+<DeviceLinkRange End="EOT" Start="2018-12-10"/>
+
+
+
+<Address Zip="27609" Latitude="35.8C021" Longitude="-78.64591"/>
+<Set DeviceType="105">
+<DeviceLinkRange End="EOT" Start="2018-12-10"/>
+
